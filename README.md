@@ -22,7 +22,6 @@ This project outlines the design and simulation of a robust and scalable backbon
 -   **High-Speed Backbone**: A fiber optic backbone using Single-Mode Fiber (SMF) connects all major university buildings to the central CITES data center.
 -   **Cost-Effective Design**: Justification for all active (switches, routers) and passive (cabling, patch panels) components is provided, balancing performance with budget.
 
-![Network Topology](img/network_topology.png)
 
 ### Simulation Files
 The Cisco Packet Tracer simulation files for this design can be found in the `cisco_packet_tracer/` directory:
