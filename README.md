@@ -25,8 +25,8 @@ This project outlines the design and simulation of a robust and scalable backbon
 
 ### Simulation Files
 The Cisco Packet Tracer simulation files for this design can be found in the `cisco_packet_tracer/` directory:
--   `UoM_Backbone_Network.pkt`: The main campus backbone simulation.
--   `ENTC_Building_Network.pkt`: The detailed network for the ENTC building.
+-   `UOM Network.pkt`: The main campus backbone simulation.
+-   `ENTC Network.pkt`: The detailed network for the ENTC building.
 
 ---
 
@@ -43,7 +43,7 @@ This project introduces the **OSD-Routing Protocol (OSDRP)**, a modern link-stat
 ### Python Simulation
 The Python scripts for the OSDRP simulation and its comparison with OSPF are located in the `src/python/` directory:
 -   `osdrp_simulation.py`: The core implementation and simulation of the OSDRP protocol.
--   `ospf_comparison.py`: A simplified OSPF-like protocol for performance comparison.
+-   `performance_comparison.py`: A simplified OSPF-like protocol for performance comparison.
 
 To run the simulation, you will need Python and the `networkx` library:
 ```bash
